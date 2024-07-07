@@ -1,2 +1,8 @@
 "# eblair-collins.github.io" 
-# eblair-collins.github.io
+# Developer for Hire
+
+### Education
+
+### Work Experience
+
+### Projects
