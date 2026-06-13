@@ -1,20 +1,20 @@
-# Software Engineer / Application Developer
+# Software Engineer
+*B.S. in Computer Science • University of North Carolina at Greensboro*
 
-## Overview
-Software Engineer with a comprehensive background in all phases of the software development lifecycle, from design, development, deployment, and even DevOps and data analytics. Experienced in development of AI chat and voice bots. Proficient in creating clear and effective diagrams and documentation. 
-
-## Education
-**B.S. in Computer Science**
-*University of North Carolina at Greensboro*
+Software Engineer with a comprehensive background in all phases of the software development lifecycle, from design, development, deployment, and even DevOps and data analytics. Experienced in development of AI chat and voice bots. Proficient in creating clear and effective diagrams and documentation.
 
 ## Skills
-Agile • Application Development • Computer Science • DevOps • Java • SQL • ServiceNow • JavaScript • Dialogflow • Python • Tableau • Puppet • AngularJS • HTML5 • CSS • AWS • CI/CD • Git • User Interface (UI) • XML • Android • Web design • ASP.NET • Node.js • Web development • React • Analysis skills • Software troubleshooting • REST • Mobile applications • Cloud computing • Software development • Windows • Computer science • APIs • C++ • MySQL • Docker • GitHub 
 
-**Programming Languages & Frameworks:** .NET, C/C++/C#, Java (Java EE/J2EE), PHP, Python, CSS, Flask, Flutter, HTML5, JavaScript, jQuery, Pandas, React, Spring Boot, JUnit, PyTest, Maven, SQL, Shell Scripts
-**Web Services & APIs:** Postman, REST, SOAP, WebSockets, XML
-**Database Management:** MySQL, Oracle, SQL, SQL Server
-**Operating Systems:** Linux, UNIX, Windows
-**Security Protocols:** Data Encryption, HTTPS, JWT, LDAP, OAuth, SSH, SSL
+#### Programming Languages and Frameworks
+.NET • C/C++/C# • Java (Java EE/J2EE) • PHP • Python • CSS • Flask • Flutter • HTML5 • JavaScript • jQuery • Pandas • React • Spring Boot • JUnit • PyTest • Maven • SQL • Shell Scripts 
+#### Web Services & APIs: 
+Postman • REST • SOAP • WebSockets • XML 
+#### Database Management: 
+MySQL • Oracle • SQL • SQL Server 
+#### Operating Systems:
+Linux • UNIX • Windows 
+#### Security Protocols: 
+Data Encryption • HTTPS • JWT • LDAP • OAuth • SSH • SSL
 
 ## Work Experience
 
