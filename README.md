@@ -1,31 +1,38 @@
-# Application Developer
+# Software Engineer / Application Developer
 
 ## Overview
-Looking to join a team of motivated developers who are passionate about creating quality code that follows best practices and always has security in mind. My skills have a wide range since I started as a front-end web developer before my degree in computer science and have developed many skills as I worked my way through DevOps and Application Development teams.
+Software Engineer with a comprehensive background in all phases of the software development lifecycle, from design, development, deployment, and even DevOps and data analytics. Experienced in development of AI chat and voice bots. Proficient in creating clear and effective diagrams and documentation. 
 
 ## Education
 **B.S. in Computer Science**
 *University of North Carolina at Greensboro*
-*December 2019*
 
 ## Skills
 Agile • Application Development • Computer Science • DevOps • Java • SQL • ServiceNow • JavaScript • Dialogflow • Python • Tableau • Puppet • AngularJS • HTML5 • CSS • AWS • CI/CD • Git • User Interface (UI) • XML • Android • Web design • ASP.NET • Node.js • Web development • React • Analysis skills • Software troubleshooting • REST • Mobile applications • Cloud computing • Software development • Windows • Computer science • APIs • C++ • MySQL • Docker • GitHub 
 
+**Programming Languages & Frameworks:** .NET, C/C++/C#, Java (Java EE/J2EE), PHP, Python, CSS, Flask, Flutter, HTML5, JavaScript, jQuery, Pandas, React, Spring Boot, JUnit, PyTest, Maven, SQL, Shell Scripts
+**Web Services & APIs:** Postman, REST, SOAP, WebSockets, XML
+**Database Management:** MySQL, Oracle, SQL, SQL Server
+**Operating Systems:** Linux, UNIX, Windows
+**Security Protocols:** Data Encryption, HTTPS, JWT, LDAP, OAuth, SSH, SSL
+
 ## Work Experience
 
-### Jr. Software Engineer
+### Software Engineer/Application Developer
 *Lincoln Financial Group*
-- Maintained micro-services platform to launch new integrations and maintain code base efficiency and continuity
-- Leveraged Dialogflow to optimize user experience with customer-facing voice bot
-- Programmed essential services for customer-facing chat bot
-- Collected and analyzed data for customer experience throughout the voice and chat bot experiences to determine areas of improvement as well as increase customer engagement and satisfaction
-- Coordinated the upgrade to modern security standards on legacy code bases
 
-### ServiceNow Developer/Admin
+- Maintained and optimized a microservices platform, enabling the launch of multiple integrations while ensuring code base efficiency and continuity.
+- Increased unit test coverage from approximately 50% to 70% on our microservice platform.
+- Leveraged Dialogflow to enhance user experience, developing a customer-facing AI voice bot that improved interaction and engagement.
+- Implemented essential services for a customer-facing AI chat bot, contributing to seamless user interactions and satisfaction.
+- Collected and analyzed data on customer interactions with AI voice and chat bots to identify improvement areas, consistently boosting engagement and overall satisfaction.
+- Coordinated upgrades to modern security standards on legacy code bases, ensuring compliance and enhancing system integrity.
+
+### ServiceNow Developer
 *Lincoln Financial Group*
-- Developed front-end web forms for ServiceNow (internal-facing)
-- Launched new automation services to decrease manual labor
-- Created inventory optimization processes for our IT team within a centralized SaaS
+- Developed a series of front-end web forms for ServiceNow that automated routine data entries, resulting in an estimated time savings of 20 hours per month for the inventory team, allowing them to focus on higher-priority tasks.
+- Created inventory optimization processes for the IT team within a centralized SaaS platform, streamlining resource retrieval, tracking, and management for both client and service provider.
+- Launched new automation services, significantly reducing manual labor and increasing operational efficiency.
 
 ### ACM Vice President
 *UNC of Greensboro Chapter*
